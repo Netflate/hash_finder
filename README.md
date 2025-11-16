@@ -12,7 +12,7 @@ A Rust console application that calculates SHA-256 hashes for consecutive intege
 ```bash
 # Clone the repository
 git clone https://github.com/Netflate/hash_finder.git
-cd hash-finder
+cd hash_finder
 
 # Build release version
 cargo build --release
